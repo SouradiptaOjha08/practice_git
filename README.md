@@ -1,1 +1,1 @@
-# practice_git : line_1
+# practice_git : this repository is just for practicing git
